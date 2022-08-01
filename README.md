@@ -1,3 +1,3 @@
 # projecteuler solutions
 
-This repository contanins solutions for the problems from projecteuler.net
+This repository contanins solutions for the problems from [Projecteuler](https://projecteuler.net)
